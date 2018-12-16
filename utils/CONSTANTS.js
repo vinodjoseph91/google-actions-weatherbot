@@ -12,5 +12,5 @@
        CONST_KEY_WEATHER = "/api/v1/weather"
        CONST_KEY_LOCATION = "location"
        CONST_KEY_WEATHER_ENDPOINT = "https://api.openweathermap.org/data/2.5/weather?q="
-       CONST_KEY_WEATHER_ENDPOINT_SUFFIX = "&appid=****your app id from openweatherapi ****&units=metric"
+       CONST_KEY_WEATHER_ENDPOINT_SUFFIX = "&appid=*******your app id from openweatherapi*****&units=metric"
    }
