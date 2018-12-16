@@ -1,0 +1,26 @@
+{
+  "actions": [
+    {
+      "description": "Default Welcome Intent",
+      "name": "MAIN",
+      "fulfillment": {
+        "conversationName": "Task Planner"
+      },
+      "intent": {
+        "name": "actions.intent.MAIN",
+        "trigger": {
+          "queryPatterns": [
+            "talk to Task Planner"
+          ]
+        }
+      }
+    }
+  ],
+  "conversations": {
+    "Task Planner": {
+      "name": "Task Planner",
+      "url": "https://7462e63b.ngrok.io/webhook/api/taskplanner"
+    }
+  },
+  "locale": "en"
+}

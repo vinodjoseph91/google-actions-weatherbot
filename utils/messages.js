@@ -1,0 +1,26 @@
+module.exports = function () {
+    CONST_MSG_WELCOME_MESSAGE = "welcome to task planner. I can help you plan your activities and know weather information"
+    CONST_MSG_CREATE_TASK1 = "create task"
+    CONST_MSG_CREATE_TASK2 = "add task"
+    CONST_MSG_CREATE_TASK3 = "insert task"
+    CONST_MSG_CREATE_TASK4 = "i want to create a new task"
+    CONST_MSG_SHOW_TASK1 = "show tasks"
+    CONST_MSG_SHOW_TASK2 = "list tasks"
+    CONST_MSG_SHOW_TASK3 = "view tasks"
+    CONST_MSG_SHOW_TASK4 = "what are my tasks"
+    CONST_MSG_ASK_TASK_NAME = "What should I set the task as ?"
+    CONST_MSG_ASK_TASK_DESC = "Please describe the task details."
+    CONST_MSG_ASK_TASK_ASSIGNEE = "Whom do you want to assign the task to ?"
+    CONST_MSG_ASK_TASK_DURATION = "How many days do you think the task needs ?"
+    CONST_MSG_TASK_CREATED = "Hurray, your task got added!!"
+    CONST_MSG_NO_TASKS_FOUND = "Looks like you haven't created any task. Start by creating a new task."
+    CONST_MSG_USER_TASK_LIST = "These are the tasks created by you"
+
+    CONST_MSG_GET_WEATHER1 = "help me find the weather"
+    CONST_MSG_GET_WEATHER2 = "how is the weather today"
+    CONST_MSG_ASK_LOCATION_NAME =" Sure , whats the location ?"
+    CONST_MSG_WEATHER = "weather"
+    CONST_MSG_THANKS ="thanks"
+    CONST_MSG_THANKS_RESP = "Glad to be of help"
+     
+}
